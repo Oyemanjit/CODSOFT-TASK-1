@@ -276,6 +276,12 @@ section .title::after{
     margin: 10px 0 7px 0;
     color: crimson;
 }
+.projects .serv-content .card .text .p{
+    font-size: 30px;
+    font-weight: 50;
+    margin: 10px 0 7px 0;
+    text-align: justify;
+}
 
 
 
